@@ -14,6 +14,7 @@ header {
 }
 
 main  {
+    flex-direction: column;
     margin: 0 auto;
     margin-top: 3em;
     font-family: monospace;
@@ -49,4 +50,22 @@ footer h3 {
 footer {
     background-color: steelblue;
     height: 2.5em;
+}
+
+ main h4 {
+    margin-bottom: 30px;
+}
+
+.music {
+    padding-right: 400px; 
+    max-height: auto;
+    
+}
+
+.music-p {
+    padding-top: 30px;
+}
+
+.dir {
+    display: flex;
 }
