@@ -36,7 +36,9 @@ main  {
     color: wheat;
 }
 
-
+ main h2 {
+    padding: 50px;
+}
 
 footer h3 {
     margin-top: 660px;
