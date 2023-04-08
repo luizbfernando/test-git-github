@@ -13,21 +13,21 @@ header {
     margin-bottom: 100px;
 }
 
-.main {
+main  {
     position: relative;
     font-family: monospace;
     background-color: red;
     width: 45%;
     height: 600px;
-    padding-top: 50px;
     color: whitesmoke;
     font-size: 2.5em;
     border: 7px solid brown;
     margin: 0 auto;
 
+
 }
 
-h1 {
+ header h1 {
     padding-top: 40px;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -37,7 +37,7 @@ h1 {
 
 
 
-h3 {
+footer h3 {
     margin-top: 660px;
     padding-top: 12.5px;
     font-family: Arial, Helvetica, sans-serif;
