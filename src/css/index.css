@@ -14,7 +14,8 @@ header {
 }
 
 main  {
-    position: relative;
+    margin: 0 auto;
+    margin-top: 3em;
     font-family: monospace;
     background-color: red;
     width: 45%;
@@ -22,7 +23,7 @@ main  {
     color: whitesmoke;
     font-size: 2.5em;
     border: 7px solid brown;
-    margin: 0 auto;
+   
 
 
 }
