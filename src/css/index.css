@@ -21,14 +21,12 @@ main  {
     font-family: monospace;
     background-color: red;
     width: 45%;
-    height: 13em;
+    height: 34.5em;
     color: whitesmoke;
     font-size: 2.5em;
     border: 7px solid brown;
-   
-
-
 }
+
 
  header h1 {
     padding-top: 40px;
@@ -51,7 +49,7 @@ footer h3 {
 footer h4 {
     background-color: steelblue;
     height: 2.5em;
-    margin-top: 300px;
+    margin-top: 50em;
     padding-top: 0.8em;
 }
 
@@ -68,3 +66,18 @@ music-p {
     padding-right: 13em;
 }
 
+img {
+    height: 13em;
+    width: 100%;
+}
+
+video {
+    width: 100%;
+}
+
+.big-emoji {
+    position: absolute;
+    margin-left: 12em ;
+    height: 7em;
+    width: 7em;
+}
