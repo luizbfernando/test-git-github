@@ -32,7 +32,6 @@ main  {
 
  header h1 {
     padding-top: 40px;
-    font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
     color: wheat;
@@ -51,6 +50,8 @@ footer h4 {
     margin-top: 50em;
     padding-top: 0.8em;
     width: 100%;
+    font-family: arial;
+    font-weight: bold;
 }
 
  main h4 {
