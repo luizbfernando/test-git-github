@@ -34,14 +34,13 @@ main  {
     padding-top: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
-    color: wheat;
+    color: darkred;
     width: 100%;
 }
 
  main h2 {
     padding: 50px;
 }
-
 
 
 footer h4 {
